@@ -21,10 +21,10 @@
 <p align="left">
 <a href="https://twitter.com/dinukakeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinukakeshan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dinukakeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinukakeshan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dinuka keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinuka keshan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23254640/dinuka-keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinuka keshan" height="30" width="40" /></a>
 <a href="https://fb.com/dinuka.keshan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuka.keshan.94" height="30" width="40" /></a>
 <a href="https://instagram.com/__x.dino____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__x.dino____" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dinuka keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dinuka keshan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dinuka_keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dinuka keshan" height="30" width="40" /></a>
 <a href="https://discord.gg/8xBeEz5q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8xBeEz5q" height="30" width="40" /></a>
 </p>
 
