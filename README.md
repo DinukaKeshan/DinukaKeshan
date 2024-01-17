@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinukakeshan&label=Profile%20views&color=0e75b6&style=flat" alt="dinukakeshan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinukakeshan" alt="dinukakeshan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dinukakeshan" target="blank"><img src="https://img.shields.io/twitter/follow/dinukakeshan?logo=twitter&style=for-the-badge" alt="dinukakeshan" /></a> </p>
 
 - 🔭 I’m currently working as a **Freelancer**
@@ -23,10 +21,10 @@
 <p align="left">
 <a href="https://twitter.com/dinukakeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinukakeshan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dinukakeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinukakeshan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dinuka-keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinuka-keshan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/dinuka keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinuka keshan" height="30" width="40" /></a>
 <a href="https://fb.com/dinuka.keshan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuka.keshan.94" height="30" width="40" /></a>
 <a href="https://instagram.com/__x.dino____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__x.dino____" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dinuka_keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dinuka_keshan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dinuka keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dinuka keshan" height="30" width="40" /></a>
 <a href="https://discord.gg/8xBeEz5q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8xBeEz5q" height="30" width="40" /></a>
 </p>
 
