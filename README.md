@@ -58,7 +58,7 @@
 
 ---
 
-<h3 align="left">My Statistics:</h3>
+<h3 align="center">My Statistics:</h3> <br><br>
 
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
@@ -72,6 +72,13 @@
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 ------
 
