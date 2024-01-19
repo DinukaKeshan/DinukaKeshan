@@ -7,7 +7,7 @@
         <h1 align="center">I'm Dinuka Keshan</h1>
         <h3 align="center">A Machine that turns Coffee into Code</h3>
 
-<p>Passionate and innovative software engineer with a flair for crafting robust and efficient solutions. Adept at translating complex ideas into elegant code and driving project success through a meticulous approach to problem-solving. Proficient in a variety of programming languages and technologies, with a keen interest in staying ahead of industry trends. Collaborative team player with excellent communication skills, committed to delivering high-quality software that meets both user needs and business objectives. Continuously honing skills through ongoing learning and embracing challenges to push the boundaries of what technology can achieve. Dedicated to creating impactful and scalable software solutions that make a positive difference in the world.</p>
+<p>Hey fellow tech aficionados!  I'm Dinuka, a coding virtuoso and passionate undergraduate sorcerer in the mystical realm of software development. My world revolves around crafting digital wonders, where every line of code is a brushstroke of innovation. Join me in this exhilarating journey of turning the ordinary into extraordinary! Let's code up some serious enchantment together!</p>
     </div>
 </div>
     
