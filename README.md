@@ -55,7 +55,7 @@
 <p align="center">
 <a href="https://fb.com/dinuka.keshan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuka.keshan.94" height="50" width="50" /></a>
 <a href="https://instagram.com/__x.dino____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__x.dino____" height="50" width="50" /></a>
-<a href="https://www.youtube.com/@dinuka_keshan" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="dinuka keshan" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@Dinuka.Keshan" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="dinuka keshan" height="50" width="50" /></a>
 <a href="https://discord.gg/8xBeEz5q" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" height="50" width="50" /></a>
 <a href="https://twitter.com/dinukakeshan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="dinukakeshan" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/dinukakeshan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="dinukakeshan" height="50" width="50" /></a>
